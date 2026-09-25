@@ -230,27 +230,27 @@ The complete pipeline works as follows:
               ↓
 9. Email notification is sent
 
-Key Learning Outcomes
+Key Learning Outcomes:
 
 Configured Jenkins on an AWS EC2 Ubuntu server
-
+             |
 Integrated Jenkins with GitHub
-
+             |   
 Configured GitHub webhooks
-
+             |   
 Used Maven for Java builds
-
+             | 
 Automated unit testing through Jenkins
-
+             | 
 Archived Maven build artifacts
-
+             |
 Tested both successful and failed builds
-
+             |   
 Configured Jenkins email notifications
-
+             |   
 Implemented an end-to-end CI workflow
 
-Conclusion
+{Conclusion}
 
 This project demonstrates a complete Jenkins-based CI/CD workflow where
 source code changes in GitHub automatically trigger a Maven build in
