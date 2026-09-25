@@ -255,4 +255,4 @@ Conclusion
 This project demonstrates a complete Jenkins-based CI/CD workflow where
 source code changes in GitHub automatically trigger a Maven build in
 Jenkins. The pipeline validates the application, generates and archives
-the JAR artifact, and provides email notifications for build status.
+the JAR artifact, and provides email notifications for build status..
